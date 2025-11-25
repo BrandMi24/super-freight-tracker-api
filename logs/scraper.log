@@ -1,0 +1,156 @@
+[2025-11-25T17:28:33.094Z] info: Scraping lista de barcos (estático) {"url":"https://www.vesselfinder.com/vessels"}
+[2025-11-25T17:28:33.847Z] info: Scrape attempt {"url":"https://www.vesselfinder.com/vessels","status":200,"blocked":null,"via":"axios"}
+[2025-11-25T17:28:33.892Z] info: Encontrados 1 barcos en listado
+[2025-11-25T17:28:35.951Z] info: Scraping detalle barco {"url":"https://www.vesselfinder.com/vessels/details/9648714"}
+[2025-11-25T17:28:36.132Z] info: Scrape attempt {"url":"https://www.vesselfinder.com/vessels/details/9648714","status":200,"blocked":null,"via":"axios"}
+[2025-11-25T17:28:41.735Z] info: Scraping dinámico (Playwright demo) {"url":"https://httpbin.org/headers"}
+[2025-11-25T17:28:47.529Z] error: Error en scrape dinámico demo {"url":"https://httpbin.org/headers","error":"page.response is not a function"}
+[2025-11-25T17:30:00.028Z] info: Scraping lista de barcos (estático) {"url":"https://www.vesselfinder.com/vessels"}
+[2025-11-25T17:30:00.575Z] info: Scrape attempt {"url":"https://www.vesselfinder.com/vessels","status":200,"blocked":null,"via":"axios"}
+[2025-11-25T17:30:00.592Z] info: Encontrados 5 barcos en listado
+[2025-11-25T17:30:02.595Z] info: Scraping detalle barco {"url":"https://www.vesselfinder.com/vessels/details/9648714"}
+[2025-11-25T17:30:02.902Z] info: Scrape attempt {"url":"https://www.vesselfinder.com/vessels/details/9648714","status":200,"blocked":null,"via":"axios"}
+[2025-11-25T17:30:04.135Z] info: Scraping detalle barco {"url":"https://www.vesselfinder.com/vessels/details/9593505"}
+[2025-11-25T17:30:05.171Z] info: Scrape attempt {"url":"https://www.vesselfinder.com/vessels/details/9593505","status":200,"blocked":null,"via":"axios"}
+[2025-11-25T17:30:07.594Z] info: Scraping detalle barco {"url":"https://www.vesselfinder.com/vessels/details/9831684"}
+[2025-11-25T17:30:07.755Z] info: Scrape attempt {"url":"https://www.vesselfinder.com/vessels/details/9831684","status":200,"blocked":null,"via":"axios"}
+[2025-11-25T17:30:08.912Z] info: Scraping detalle barco {"url":"https://www.vesselfinder.com/vessels/details/9829930"}
+[2025-11-25T17:30:09.225Z] info: Scrape attempt {"url":"https://www.vesselfinder.com/vessels/details/9829930","status":200,"blocked":null,"via":"axios"}
+[2025-11-25T17:30:11.425Z] info: Scraping detalle barco {"url":"https://www.vesselfinder.com/vessels/details/9829942"}
+[2025-11-25T17:30:11.586Z] info: Scrape attempt {"url":"https://www.vesselfinder.com/vessels/details/9829942","status":200,"blocked":null,"via":"axios"}
+[2025-11-25T17:31:13.218Z] info: Scraping lista de barcos (estático) {"url":"https://www.vesselfinder.com/vessels"}
+[2025-11-25T17:31:13.931Z] info: Scrape attempt {"url":"https://www.vesselfinder.com/vessels","status":200,"blocked":null,"via":"axios"}
+[2025-11-25T17:31:13.977Z] info: Encontrados 1 barcos en listado
+[2025-11-25T17:31:15.384Z] info: Scraping detalle barco {"url":"https://www.vesselfinder.com/vessels/details/9648714"}
+[2025-11-25T17:31:15.561Z] info: Scrape attempt {"url":"https://www.vesselfinder.com/vessels/details/9648714","status":200,"blocked":null,"via":"axios"}
+[2025-11-25T17:31:30.367Z] info: Scraping lista de barcos (estático) {"url":"https://www.vesselfinder.com/vessels"}
+[2025-11-25T17:31:30.918Z] info: Scrape attempt {"url":"https://www.vesselfinder.com/vessels","status":200,"blocked":null,"via":"axios"}
+[2025-11-25T17:31:30.938Z] info: Encontrados 1 barcos en listado
+[2025-11-25T17:31:32.184Z] info: Scraping detalle barco {"url":"https://www.vesselfinder.com/vessels/details/9648714"}
+[2025-11-25T17:31:32.353Z] info: Scrape attempt {"url":"https://www.vesselfinder.com/vessels/details/9648714","status":200,"blocked":null,"via":"axios"}
+[2025-11-25T17:31:40.495Z] info: Scraping dinámico (Playwright demo) {"url":"https://httpbin.org/headers"}
+[2025-11-25T17:31:43.811Z] error: Error en scrape dinámico demo {"url":"https://httpbin.org/headers","error":"page.response is not a function"}
+[2025-11-25T17:32:41.277Z] info: Scraping lista de barcos (estático) {"url":"https://www.vesselfinder.com/vessels"}
+[2025-11-25T17:32:41.816Z] info: Scrape attempt {"url":"https://www.vesselfinder.com/vessels","status":200,"blocked":null,"via":"axios"}
+[2025-11-25T17:32:41.833Z] info: Encontrados 5 barcos en listado
+[2025-11-25T17:32:44.021Z] info: Scraping detalle barco {"url":"https://www.vesselfinder.com/vessels/details/9648714"}
+[2025-11-25T17:32:44.191Z] info: Scrape attempt {"url":"https://www.vesselfinder.com/vessels/details/9648714","status":200,"blocked":null,"via":"axios"}
+[2025-11-25T17:32:46.129Z] info: Scraping detalle barco {"url":"https://www.vesselfinder.com/vessels/details/9593505"}
+[2025-11-25T17:32:46.296Z] info: Scrape attempt {"url":"https://www.vesselfinder.com/vessels/details/9593505","status":200,"blocked":null,"via":"axios"}
+[2025-11-25T17:32:47.762Z] info: Scraping detalle barco {"url":"https://www.vesselfinder.com/vessels/details/9831684"}
+[2025-11-25T17:32:47.927Z] info: Scrape attempt {"url":"https://www.vesselfinder.com/vessels/details/9831684","status":200,"blocked":null,"via":"axios"}
+[2025-11-25T17:32:50.346Z] info: Scraping detalle barco {"url":"https://www.vesselfinder.com/vessels/details/9829930"}
+[2025-11-25T17:32:50.670Z] info: Scrape attempt {"url":"https://www.vesselfinder.com/vessels/details/9829930","status":200,"blocked":null,"via":"axios"}
+[2025-11-25T17:32:52.323Z] info: Scraping detalle barco {"url":"https://www.vesselfinder.com/vessels/details/9829942"}
+[2025-11-25T17:32:52.494Z] info: Scrape attempt {"url":"https://www.vesselfinder.com/vessels/details/9829942","status":200,"blocked":null,"via":"axios"}
+[2025-11-25T17:33:11.975Z] info: Scraping lista de barcos (estático) {"url":"https://www.vesselfinder.com/vessels"}
+[2025-11-25T17:33:12.540Z] info: Scrape attempt {"url":"https://www.vesselfinder.com/vessels","status":200,"blocked":null,"via":"axios"}
+[2025-11-25T17:33:12.580Z] info: Encontrados 1 barcos en listado
+[2025-11-25T17:33:13.730Z] info: Scraping detalle barco {"url":"https://www.vesselfinder.com/vessels/details/9648714"}
+[2025-11-25T17:33:13.900Z] info: Scrape attempt {"url":"https://www.vesselfinder.com/vessels/details/9648714","status":200,"blocked":null,"via":"axios"}
+[2025-11-25T17:33:48.192Z] info: Scraping dinámico (Playwright demo) {"url":"https://httpbin.org/headers"}
+[2025-11-25T17:34:01.395Z] error: Error en scrape dinámico demo {"url":"https://httpbin.org/headers","error":"page.response is not a function"}
+[2025-11-25T17:36:23.085Z] info: Scraping dinámico (Playwright demo) {"url":"http://localhost:3000/api/demo/dynamic-page"}
+[2025-11-25T17:36:24.836Z] error: Error en scrape dinámico demo {"url":"http://localhost:3000/api/demo/dynamic-page","error":"page.response is not a function"}
+[2025-11-25T17:38:49.804Z] info: Scraping dinámico (Playwright demo) {"url":"http://localhost:3000/api/demo/dynamic-page"}
+[2025-11-25T17:38:51.460Z] info: Scrape attempt {"url":"http://localhost:3000/api/demo/dynamic-page","status":200,"blocked":null,"via":"playwright"}
+[2025-11-25T17:38:53.077Z] info: Scraping lista de barcos (estático) {"url":"https://www.vesselfinder.com/vessels"}
+[2025-11-25T17:38:53.770Z] info: Scrape attempt {"url":"https://www.vesselfinder.com/vessels","status":200,"blocked":null,"via":"axios"}
+[2025-11-25T17:38:53.825Z] info: Encontrados 1 barcos en listado
+[2025-11-25T17:38:55.171Z] info: Scraping detalle barco {"url":"https://www.vesselfinder.com/vessels/details/9648714"}
+[2025-11-25T17:38:55.342Z] info: Scrape attempt {"url":"https://www.vesselfinder.com/vessels/details/9648714","status":200,"blocked":null,"via":"axios"}
+[2025-11-25T17:42:31.742Z] info: Scraping lista de barcos (estático) {"url":"https://www.vesselfinder.com/vessels"}
+[2025-11-25T17:42:32.466Z] info: Scrape attempt {"url":"https://www.vesselfinder.com/vessels","status":200,"blocked":null,"via":"axios"}
+[2025-11-25T17:42:32.516Z] info: Encontrados 1 barcos en listado
+[2025-11-25T17:42:33.938Z] info: Scraping detalle barco {"url":"https://www.vesselfinder.com/vessels/details/9648714"}
+[2025-11-25T17:42:34.116Z] info: Scrape attempt {"url":"https://www.vesselfinder.com/vessels/details/9648714","status":200,"blocked":null,"via":"axios"}
+[2025-11-25T17:42:36.864Z] info: Scraping dinámico (Playwright demo) {"url":"http://localhost:3000/api/demo/dynamic-page"}
+[2025-11-25T17:42:38.344Z] info: Scrape attempt {"url":"http://localhost:3000/api/demo/dynamic-page","status":200,"blocked":null,"via":"playwright"}
+[2025-11-25T17:42:40.299Z] info: Iniciando scraper autenticado demo {"loginUrl":"https://example.com/login"}
+[2025-11-25T17:42:56.965Z] info: Descargando XML {"url":"https://www.w3schools.com/xml/note.xml"}
+[2025-11-25T17:43:14.412Z] error: Error en scraper autenticado {"loginUrl":"https://example.com/login","error":"page.fill: Timeout 30000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('input[name=\"email\"]')\u001b[22m\n"}
+[2025-11-25T17:43:14.416Z] info: Iniciando scraper autenticado demo {"loginUrl":"https://example.com/login"}
+[2025-11-25T17:43:27.407Z] info: Iniciando scraper autenticado demo {"loginUrl":"https://example.com/login"}
+[2025-11-25T17:43:29.411Z] info: Iniciando scraper autenticado demo {"loginUrl":"https://example.com/login"}
+[2025-11-25T17:43:45.685Z] error: Error en scraper autenticado {"loginUrl":"https://example.com/login","error":"page.fill: Timeout 30000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('input[name=\"email\"]')\u001b[22m\n"}
+[2025-11-25T17:43:58.580Z] error: Error en scraper autenticado {"loginUrl":"https://example.com/login","error":"page.fill: Timeout 30000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('input[name=\"email\"]')\u001b[22m\n"}
+[2025-11-25T17:44:00.595Z] error: Error en scraper autenticado {"loginUrl":"https://example.com/login","error":"page.fill: Timeout 30000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('input[name=\"email\"]')\u001b[22m\n"}
+[2025-11-25T17:47:55.260Z] info: Descargando XML {"url":"https://www.w3schools.com/xml/note.xml"}
+[2025-11-25T17:48:00.707Z] info: Iniciando scraper autenticado demo {"loginUrl":"http://localhost:3000/api/demo/login-page"}
+[2025-11-25T17:48:14.214Z] info: Scraping lista de barcos (estático) {"url":"https://www.vesselfinder.com/vessels"}
+[2025-11-25T17:48:14.909Z] info: Scrape attempt {"url":"https://www.vesselfinder.com/vessels","status":200,"blocked":null,"via":"axios"}
+[2025-11-25T17:48:14.955Z] info: Encontrados 1 barcos en listado
+[2025-11-25T17:48:16.084Z] info: Scraping detalle barco {"url":"https://www.vesselfinder.com/vessels/details/9648714"}
+[2025-11-25T17:48:16.258Z] info: Scrape attempt {"url":"https://www.vesselfinder.com/vessels/details/9648714","status":200,"blocked":null,"via":"axios"}
+[2025-11-25T17:48:17.394Z] info: Scraping dinámico (Playwright demo) {"url":"http://localhost:3000/api/demo/dynamic-page"}
+[2025-11-25T17:48:18.750Z] info: Scrape attempt {"url":"http://localhost:3000/api/demo/dynamic-page","status":200,"blocked":null,"via":"playwright"}
+[2025-11-25T17:54:22.503Z] info: Scraping lista de barcos (estático) {"url":"https://www.vesselfinder.com/vessels"}
+[2025-11-25T17:54:23.045Z] info: Scrape attempt {"url":"https://www.vesselfinder.com/vessels","status":200,"blocked":null,"via":"axios"}
+[2025-11-25T17:54:23.061Z] info: Encontrados 1 barcos en listado
+[2025-11-25T17:54:24.552Z] info: Scraping detalle barco {"url":"https://www.vesselfinder.com/vessels/details/9648714"}
+[2025-11-25T17:54:24.713Z] info: Scrape attempt {"url":"https://www.vesselfinder.com/vessels/details/9648714","status":200,"blocked":null,"via":"axios"}
+[2025-11-25T17:54:25.456Z] info: Scraping dinámico (Playwright demo) {"url":"http://localhost:3000/api/demo/dynamic-page"}
+[2025-11-25T17:54:27.122Z] info: Scrape attempt {"url":"http://localhost:3000/api/demo/dynamic-page","status":200,"blocked":null,"via":"playwright"}
+[2025-11-25T17:54:27.741Z] info: Iniciando scraper autenticado demo {"loginUrl":"http://localhost:3000/api/demo/login-page"}
+[2025-11-25T17:54:30.433Z] info: Descargando XML {"url":"https://www.w3schools.com/xml/note.xml"}
+[2025-11-25T18:00:00.019Z] info: Scraping lista de barcos (estático) {"url":"https://www.vesselfinder.com/vessels"}
+[2025-11-25T18:00:00.541Z] info: Scrape attempt {"url":"https://www.vesselfinder.com/vessels","status":200,"blocked":null,"via":"axios"}
+[2025-11-25T18:00:00.555Z] info: Encontrados 5 barcos en listado
+[2025-11-25T18:00:02.100Z] info: Scraping detalle barco {"url":"https://www.vesselfinder.com/vessels/details/9648714"}
+[2025-11-25T18:00:02.413Z] info: Scrape attempt {"url":"https://www.vesselfinder.com/vessels/details/9648714","status":200,"blocked":null,"via":"axios"}
+[2025-11-25T18:00:04.481Z] info: Scraping detalle barco {"url":"https://www.vesselfinder.com/vessels/details/9593505"}
+[2025-11-25T18:00:04.636Z] info: Scrape attempt {"url":"https://www.vesselfinder.com/vessels/details/9593505","status":200,"blocked":null,"via":"axios"}
+[2025-11-25T18:00:05.873Z] info: Scraping detalle barco {"url":"https://www.vesselfinder.com/vessels/details/9831684"}
+[2025-11-25T18:00:06.029Z] info: Scrape attempt {"url":"https://www.vesselfinder.com/vessels/details/9831684","status":200,"blocked":null,"via":"axios"}
+[2025-11-25T18:00:08.471Z] info: Scraping detalle barco {"url":"https://www.vesselfinder.com/vessels/details/9829930"}
+[2025-11-25T18:00:08.767Z] info: Scrape attempt {"url":"https://www.vesselfinder.com/vessels/details/9829930","status":200,"blocked":null,"via":"axios"}
+[2025-11-25T18:00:10.334Z] info: Scraping detalle barco {"url":"https://www.vesselfinder.com/vessels/details/9829942"}
+[2025-11-25T18:00:10.490Z] info: Scrape attempt {"url":"https://www.vesselfinder.com/vessels/details/9829942","status":200,"blocked":null,"via":"axios"}
+[2025-11-25T18:23:58.652Z] info: Scraping lista de barcos (estático) {"url":"https://www.vesselfinder.com/vessels"}
+[2025-11-25T18:23:59.350Z] info: Scrape attempt {"url":"https://www.vesselfinder.com/vessels","status":200,"blocked":null,"via":"axios"}
+[2025-11-25T18:23:59.413Z] info: Encontrados 5 barcos en listado
+[2025-11-25T18:24:01.217Z] info: Scraping detalle barco {"url":"https://www.vesselfinder.com/vessels/details/9648714"}
+[2025-11-25T18:24:01.386Z] info: Scrape attempt {"url":"https://www.vesselfinder.com/vessels/details/9648714","status":200,"blocked":null,"via":"axios"}
+[2025-11-25T18:24:02.540Z] info: Scraping detalle barco {"url":"https://www.vesselfinder.com/vessels/details/9593505"}
+[2025-11-25T18:24:02.709Z] info: Scrape attempt {"url":"https://www.vesselfinder.com/vessels/details/9593505","status":200,"blocked":null,"via":"axios"}
+[2025-11-25T18:24:04.564Z] info: Scraping detalle barco {"url":"https://www.vesselfinder.com/vessels/details/9831684"}
+[2025-11-25T18:24:04.763Z] info: Scrape attempt {"url":"https://www.vesselfinder.com/vessels/details/9831684","status":200,"blocked":null,"via":"axios"}
+[2025-11-25T18:24:06.730Z] info: Scraping detalle barco {"url":"https://www.vesselfinder.com/vessels/details/9829930"}
+[2025-11-25T18:24:06.908Z] info: Scrape attempt {"url":"https://www.vesselfinder.com/vessels/details/9829930","status":200,"blocked":null,"via":"axios"}
+[2025-11-25T18:24:08.369Z] info: Scraping detalle barco {"url":"https://www.vesselfinder.com/vessels/details/9829942"}
+[2025-11-25T18:24:08.537Z] info: Scrape attempt {"url":"https://www.vesselfinder.com/vessels/details/9829942","status":200,"blocked":null,"via":"axios"}
+[2025-11-25T18:30:00.027Z] info: Scraping lista de barcos (estático) {"url":"https://www.vesselfinder.com/vessels"}
+[2025-11-25T18:30:00.580Z] info: Scrape attempt {"url":"https://www.vesselfinder.com/vessels","status":200,"blocked":null,"via":"axios"}
+[2025-11-25T18:30:00.591Z] info: Encontrados 5 barcos en listado
+[2025-11-25T18:30:02.849Z] info: Scraping detalle barco {"url":"https://www.vesselfinder.com/vessels/details/9648714"}
+[2025-11-25T18:30:03.012Z] info: Scrape attempt {"url":"https://www.vesselfinder.com/vessels/details/9648714","status":200,"blocked":null,"via":"axios"}
+[2025-11-25T18:30:04.402Z] info: Scraping detalle barco {"url":"https://www.vesselfinder.com/vessels/details/9593505"}
+[2025-11-25T18:30:04.568Z] info: Scrape attempt {"url":"https://www.vesselfinder.com/vessels/details/9593505","status":200,"blocked":null,"via":"axios"}
+[2025-11-25T18:30:06.394Z] info: Scraping detalle barco {"url":"https://www.vesselfinder.com/vessels/details/9831684"}
+[2025-11-25T18:30:06.556Z] info: Scrape attempt {"url":"https://www.vesselfinder.com/vessels/details/9831684","status":200,"blocked":null,"via":"axios"}
+[2025-11-25T18:30:08.839Z] info: Scraping detalle barco {"url":"https://www.vesselfinder.com/vessels/details/9829930"}
+[2025-11-25T18:30:09.008Z] info: Scrape attempt {"url":"https://www.vesselfinder.com/vessels/details/9829930","status":200,"blocked":null,"via":"axios"}
+[2025-11-25T18:30:10.898Z] info: Scraping detalle barco {"url":"https://www.vesselfinder.com/vessels/details/9829942"}
+[2025-11-25T18:30:11.067Z] info: Scrape attempt {"url":"https://www.vesselfinder.com/vessels/details/9829942","status":200,"blocked":null,"via":"axios"}
+[2025-11-25T19:00:00.024Z] info: Scraping lista de barcos (estático) {"url":"https://www.vesselfinder.com/vessels"}
+[2025-11-25T19:00:00.910Z] info: Scrape attempt {"url":"https://www.vesselfinder.com/vessels","status":200,"blocked":null,"via":"axios"}
+[2025-11-25T19:00:00.943Z] info: Encontrados 5 barcos en listado
+[2025-11-25T19:00:03.190Z] info: Scraping detalle barco {"url":"https://www.vesselfinder.com/vessels/details/9648714"}
+[2025-11-25T19:00:03.354Z] info: Scrape attempt {"url":"https://www.vesselfinder.com/vessels/details/9648714","status":200,"blocked":null,"via":"axios"}
+[2025-11-25T19:00:04.540Z] info: Scraping detalle barco {"url":"https://www.vesselfinder.com/vessels/details/9593505"}
+[2025-11-25T19:00:04.852Z] info: Scrape attempt {"url":"https://www.vesselfinder.com/vessels/details/9593505","status":200,"blocked":null,"via":"axios"}
+[2025-11-25T19:00:06.083Z] info: Scraping detalle barco {"url":"https://www.vesselfinder.com/vessels/details/9831684"}
+[2025-11-25T19:00:06.247Z] info: Scrape attempt {"url":"https://www.vesselfinder.com/vessels/details/9831684","status":200,"blocked":null,"via":"axios"}
+[2025-11-25T19:00:08.683Z] info: Scraping detalle barco {"url":"https://www.vesselfinder.com/vessels/details/9829930"}
+[2025-11-25T19:00:08.850Z] info: Scrape attempt {"url":"https://www.vesselfinder.com/vessels/details/9829930","status":200,"blocked":null,"via":"axios"}
+[2025-11-25T19:00:10.611Z] info: Scraping detalle barco {"url":"https://www.vesselfinder.com/vessels/details/9829942"}
+[2025-11-25T19:00:10.777Z] info: Scrape attempt {"url":"https://www.vesselfinder.com/vessels/details/9829942","status":200,"blocked":null,"via":"axios"}
+[2025-11-25T19:31:53.151Z] info: Descargando XML {"url":"https://www.w3schools.com/xml/note.xml"}
+[2025-11-25T19:31:53.389Z] info: Iniciando scraper autenticado demo {"loginUrl":"http://localhost:3000/api/demo/login-page"}
+[2025-11-25T19:31:56.499Z] error: Error en scraper autenticado {"loginUrl":"http://localhost:3000/api/demo/login-page","error":"page.goto: net::ERR_CONNECTION_REFUSED at http://localhost:3000/api/demo/login-page\nCall log:\n\u001b[2m  - navigating to \"http://localhost:3000/api/demo/login-page\", waiting until \"networkidle\"\u001b[22m\n"}
+[2025-11-25T19:32:18.227Z] info: Descargando XML {"url":"https://www.w3schools.com/xml/note.xml"}
+[2025-11-25T19:32:18.469Z] info: Iniciando scraper autenticado demo {"loginUrl":"http://localhost:3000/api/demo/login-page"}
+[2025-11-25T19:32:21.111Z] error: Error en scraper autenticado {"loginUrl":"http://localhost:3000/api/demo/login-page","error":"page.goto: net::ERR_CONNECTION_REFUSED at http://localhost:3000/api/demo/login-page\nCall log:\n\u001b[2m  - navigating to \"http://localhost:3000/api/demo/login-page\", waiting until \"networkidle\"\u001b[22m\n"}
+[2025-11-25T19:34:31.814Z] info: Descargando XML {"url":"https://www.w3schools.com/xml/note.xml"}
+[2025-11-25T19:34:32.047Z] info: Iniciando scraper autenticado demo {"loginUrl":"http://localhost:3000/api/demo/login-page"}
+[2025-11-25T19:34:34.694Z] error: Error en scraper autenticado {"loginUrl":"http://localhost:3000/api/demo/login-page","error":"page.goto: net::ERR_CONNECTION_REFUSED at http://localhost:3000/api/demo/login-page\nCall log:\n\u001b[2m  - navigating to \"http://localhost:3000/api/demo/login-page\", waiting until \"networkidle\"\u001b[22m\n"}
